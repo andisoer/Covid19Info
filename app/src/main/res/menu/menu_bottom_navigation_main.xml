@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuStatistic"
+        android:title="Statistik"
+        android:icon="@drawable/ic_action_insert_chart"/>
+
+    <item
+        android:id="@+id/menuMaps"
+        android:title="Peta Dunia"
+        android:icon="@drawable/ic_action_public"/>
+
+    <item
+        android:id="@+id/menuFactCheck"
+        android:title="Cek Fakta"
+        android:icon="@drawable/ic_action_view_list"/>
+
+</menu>

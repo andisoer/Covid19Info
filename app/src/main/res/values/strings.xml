@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid19Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="world">Dunia</string>
+    <string name="indonesia">Indonesia</string>
+
+</resources>
